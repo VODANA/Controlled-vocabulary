@@ -1,1 +1,1 @@
-# Contolled-vocabulary
+# Controlled-vocabulary
